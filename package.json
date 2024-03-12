@@ -1,0 +1,22 @@
+{
+  "name": "nobl9task",
+  "version": "1.0.0",
+  "description": "Recruitment task for Nobl9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cypress",
+    "TypeScript",
+    "Nobl9"
+  ],
+  "author": "Jakub Baranowski",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cypress": "^1.1.3",
+    "cypress": "^13.6.6",
+    "cypress-iframe": "^1.0.1",
+    "typescript": "^5.4.2"
+  }
+}
